@@ -1,0 +1,39 @@
+<modDesc descVersion="94">
+        <author>Alexandre Caussades</author>
+        <version>1.0.0</version>
+        <title>
+            <en>Dynamic Auction House</en>
+            <fr>Maison de vente aux enchères dynamique</fr>
+            <de>Dynamisches Auktionshaus</de>
+            <es>Casa de subastas dinámica</es>
+            <it>Casa d'aste dinamica</it>
+            <pt>Casa de Leilões Dinâmica</pt>
+            <ja>ダイナミックオークションハウス</ja>
+            <zh>动态拍卖行</zh>
+            <ko>동적 경매장</ko>
+            <ru>Динамический аукционный дом</ru>
+            <pl>Dynamiczny dom aukcyjny</pl>
+            <tr>Dinamik Müzayede Evi</tr>
+            <nl>Dynamisch Veilinghuis</nl>
+            <da>Dynamisk Auktionshus</da>
+        </title>
+        <description>
+            <en>A dynamic auction house system for trading items between players or selling to the highest bidder.</en>
+            <fr>Un système de maison de vente aux enchères dynamique pour échanger des objets entre joueurs ou vendre au plus offrant.</fr>
+            <de>Ein dynamisches Auktionshaus-System zum Handeln von Gegenständen zwischen Spielern oder zum Verkauf an den Höchstbietenden.</de>
+            <es>Un sistema de casa de subastas dinámico para intercambiar artículos entre jugadores o vender al mejor postor.</es>
+            <it>Un sistema di asta dinamico per scambiare oggetti tra i giocatori o vendere al miglior offerente.</it>
+            <pt>Um sistema de leilão dinâmico para negociar itens entre jogadores ou vender para o maior lance.</pt>
+            <ja>プレイヤー間でアイテムを取引したり、最高入札者に販売するための動的なオークションハウスシステム。</ja>
+            <zh>一个动态拍卖行系统，用于在玩家之间交易物品或出售给出价最高者。</zh>
+            <ko>플레이어 간 아이템 거래 또는 최고 입찰자에게 판매하기 위한 동적 경매장 시스템입니다.</ko>
+            <ru>Динамическая система аукционного дома для торговли предметами между игроками или продажи наивысшему ставщику.</ru>
+            <pl>Dynamiczny system domu aukcyjnego do handlu przedmiotami między graczami lub sprzedaży najwyższemu oferentowi.</pl>
+            <tr>Oyuncular arasında eşya ticareti yapmak veya en yüksek teklifi verene satmak için dinamik bir müzayede evi sistemi.</tr>
+            <nl>Een dynamisch veilinghuis systeem voor het verhandelen van items tussen spelers of verkopen aan de hoogste bieder.</nl>
+            <da>Et dynamisk auktionshus system til handel med genstande mellem spillere eller salg til den højeste budgiver.</da>
+        </description>
+    <storeItems>
+        <storeItem xmlFilename="BulkBunker.xml"/>
+    </storeItems>
+</modDesc>

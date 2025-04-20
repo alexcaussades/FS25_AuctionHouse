@@ -1,0 +1,28 @@
+<placeable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="simplePlaceable" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/placeable.xsd">
+<storeData>
+        <name>
+        <en>Dynamic Auction House</en>
+        <fr>Maison de vente aux enchères dynamique</fr>
+        <de>Dynamisches Auktionshaus</de>
+        <es>Casa de subastas dinámica</es>
+        <it>Casa d'aste dinamica</it>
+        <pt>Casa de Leilões Dinâmica</pt>
+        <ja>ダイナミックオークションハウス</ja>
+        <zh>动态拍卖行</zh>
+        <ko>동적 경매장</ko>
+        <ru>Динамический аукционный дом</ru>
+        <pl>Dynamiczny dom aukcyjny</pl>
+        <tr>Dinamik Müzayede Evi</tr>
+        <nl>Dynamisch Veilinghuis</nl>
+        <da>Dynamisk Auktionshus</da>
+        </name>
+      <functions>
+                <price>12000</price>
+                <species>placeable</species>
+                <canBeSold>true</canBeSold>
+                <showInStore>true</showInStore>
+                <category>Sheds</category>
+                <image>icon_BulkBunker.dds</image> 
+        </functions>
+</storeData>
+</placeable>
