@@ -19,4 +19,4 @@ FS25 is an auction system that allows players to trade various products with oth
 This project aims to facilitate the exchange of goods between players by implementing a clear and efficient system. With its ergonomic interface and optimized functionality, it allows everyone to actively participate in virtual commerce.
 
 ## ✉️ Contact
-If you have any questions or want to contribute, feel free to contact us via [your email or forum]. 
+If you have any questions or want to contribute, feel free to contact us. 
