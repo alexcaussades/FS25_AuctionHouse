@@ -1,7 +1,7 @@
 # FS25 - Auction House
 
 ## 📌 Description
-FS25 is an auction system that allows players to trade various products with other users or sell them to the highest bidder. This building functions as a dynamic marketplace where everyone can easily list their items.
+MOD - Auction House - FS25 is an auction system that allows players to trade various products with other users or sell them to the highest bidder. This building functions as a dynamic marketplace where everyone can easily list their items.
 
 ## 🎯 Features
 - **Listing items for sale**: Users can place their products in the Auction House with a fixed price or in auction mode.
